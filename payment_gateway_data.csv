@@ -1,0 +1,16 @@
+gateway_id,name
+PG001,PayFast
+PG002,QuickPay
+PG003,SecurePay
+PG004,EasyPay
+PG005,SwiftPay
+PG006,PayMate
+PG007,TransactPro
+PG008,PayLink
+PG009,FastFunds
+PG010,PayXpress
+PG011,PayGo
+PG012,PayEdge
+PG013,PayStream
+PG014,PayConnect
+PG015,PayBridge
